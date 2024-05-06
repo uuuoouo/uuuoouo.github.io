@@ -1,5 +1,5 @@
 # uuuoouo.github.io
 
-Questions about dataset:
+The data analysis 101 report covers the four sections pertaining to the first part of the project.
 
-What pokemon types have the most total stats and what have the least?
+The process and analysis presentation covers the last three steps of the project.
